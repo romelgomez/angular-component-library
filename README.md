@@ -1,5 +1,7 @@
 # AngularComponentLibrary
 
+ref: https://codeburst.io/how-to-built-npm-ready-component-library-with-angular-a812a22dc1d5
+
 This project is to understand how to create npm ready angular component libraries to use in an angular application.
 
 After, generating an angular application for the demo we will follow below steps to create component library
